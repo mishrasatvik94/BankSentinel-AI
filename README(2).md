@@ -444,8 +444,8 @@ The following open-source projects informed the architecture and data strategy. 
 |---|---|
 | **Satvik Kumar Mishra** | Team Lead and Solution Architecture |
 | **Jatin Kumar** | Backend and Data Pipeline |
-| **Add Member** | AI/ML and Cybersecurity |
-| **Add Member** | Frontend and Visualisation |
+| **Tanya ** | AI/ML and Cybersecurity |
+| **Divyam** | Frontend and Visualisation |
 
 Replace the remaining placeholders before final submission.
 
